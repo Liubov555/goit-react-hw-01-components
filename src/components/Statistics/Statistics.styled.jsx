@@ -16,6 +16,8 @@ font-weight: 700;
 font-size: 25px;
 padding-top: 10px;
 margin-bottom: 10px;
+text-transform: uppercase;
+color: #99a2a8;
 `
 export const List = styled.ul`
 display: flex;
@@ -32,6 +34,7 @@ flex-direction: column;
   height: 100%;
   border: 1px solid rgba(0, 0, 0, 0.2);
   text-align: center;
+  color: white;
 background-color: violet;
 `
 
