@@ -6,8 +6,6 @@ text-aling: center;
 
 ul, li {
 list-style: none;
-padding: 0px;
-margin: 0px;
 }
 `
 

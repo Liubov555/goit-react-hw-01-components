@@ -34,6 +34,8 @@ color: rgba(0, 0, 0, 0.5);
 `;
 export const Stats = styled.ul`
 display: flex;
+margin: 0px;
+padding: 0px;
 background-color: rgba(0, 0, 0, 0.05);
 
 li{

@@ -19,6 +19,8 @@ margin-bottom: 10px;
 `
 export const List = styled.ul`
 display: flex;
+margin: 0px;
+padding: 0px;
 background-color: rgba(0, 0, 0, 0.04);
 `
 export const Item = styled.li`
