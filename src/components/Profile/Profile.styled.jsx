@@ -15,7 +15,7 @@ padding: 25px;
 
 export const Avatar = styled.img`
 width: 100%;
-border: 4px, solid;
+border: 1px solid;
 border-radius: 50%;
 margin-bottom:20px;
 `;
@@ -33,14 +33,12 @@ export const Location = styled.p`
 color: rgba(0, 0, 0, 0.5);
 `;
 export const Stats = styled.ul`
-list-style: none;
-padding: 0px;
 display: flex;
 background-color: rgba(0, 0, 0, 0.05);
 
 li{
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     width: 100%;
 height: 100%;
  border: 1px solid rgb(0 0 0 / 20%);
@@ -55,6 +53,7 @@ height: 100%;
 
 export const Label = styled.span`
 display: block;
+padding-bottom: 4px;
 `;
 
 export const Quanlily = styled.span`
